@@ -17,6 +17,7 @@ public class App {
 		lst.add(4);
 		lst.add(2);
 
+		System.out.println("Testando");
 		System.out.println("procura 2 :" + procura(lst, 2));
 		System.out.println("somaTudo  :" + somaTudo(lst));
 		System.out.println("somaTudo2 :" + somaTudo2(lst));
